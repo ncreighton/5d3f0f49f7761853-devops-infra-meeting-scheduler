@@ -1,0 +1,2 @@
+# 5d3f0f49f7761853-devops-infra-meeting-scheduler
+Professional devops infra REST API — without the professional price tag.  Rate limiting, authentication, and error handling built in from the start. SDKs and quickstart guides for Python, JavaScript, PHP, and cURL.  ## What's Included  - Devops Infra Meeting Scheduler And Notes Organizer — fully configured and ready to use - RESTful JSON API with O
